@@ -1,0 +1,28 @@
+{
+  "name": "SubScan",
+  "slug": "subscan-mfavqrqz",
+  "description": "Instantly see all your subscriptions by uploading a bank statement PDF - no signup required",
+  "targetAudience": "Busy professionals with 5+ subscriptions who suspect they're overpaying",
+  "valueProposition": "Reveals all your recurring charges in 10 seconds without connecting bank accounts",
+  "techStack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Supabase"
+  ],
+  "features": [
+    "Drag-and-drop PDF bank statement analyzer that identifies recurring charges",
+    "Instant subscription detection showing service name, amount, and frequency",
+    "One-click export of results to CSV with estimated yearly cost per subscription",
+    "Anonymous 'waste calculator' showing potential savings from unused subscriptions",
+    "Quick feedback widget asking 'Which subscription surprised you most?'"
+  ],
+  "monetization": {
+    "model": "subscription",
+    "price": 50,
+    "currency": "usd"
+  },
+  "githubRepo": "https://github.com/striking/subscan-mfavqrqz",
+  "ventureId": "935e4d1e-37af-419b-af1a-6fa24b07e1b7",
+  "createdAt": "2025-09-08T08:48:49.283Z"
+}
